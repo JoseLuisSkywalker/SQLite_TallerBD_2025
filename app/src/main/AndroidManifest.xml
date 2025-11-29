@@ -24,6 +24,9 @@
 
         <activity android:name=".ActivityAltas"></activity>
         <activity android:name=".ActivityConsultas"></activity>
+        <activity android:name=".ActivityBajas"></activity>
+        <activity android:name=".ActivityCambios"></activity>
+
 
     </application>
 

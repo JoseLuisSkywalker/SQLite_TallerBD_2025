@@ -39,4 +39,12 @@ public interface AlumnoDAO {
     @Query("SELECT * FROM alumno WHERE nombre=:n")
     public List<Alumno> mostrarPorNombre(String n);
 
+    @Query("SELECT * FROM Alumno WHERE numControl = :nc LIMIT 1")
+    Alumno buscarPorNumControl(String nc);
+
+
+
+
+
+
 }

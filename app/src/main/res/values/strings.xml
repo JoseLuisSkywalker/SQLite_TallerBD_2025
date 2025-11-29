@@ -5,4 +5,9 @@
     <string name="txt_btn_Cambios">CAMBIOS</string>
     <string name="txt_btn_Consultas">CONSULTAS</string>
     <string name="txt_titulo_altas">AGREGAR ALUMNOS</string>
+
+    <string name="txt_numcontrol_bajas">Número de Control</string>
+    <string name="txt_numcontrol_cambios">Número de Control</string>
+    <string name="txt_nombre_cambios">Nombre</string>
+    <string name="txt_btn_cambios">Modificar</string>
 </resources>
